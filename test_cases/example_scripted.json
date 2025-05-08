@@ -1,0 +1,21 @@
+{
+    "name": "example scripted",
+    "description": null,
+    "origin": null,
+    "external_id": null,
+    "tags": [],
+    "type": "SCRIPTED",
+    "ignore_in_test_config": false,
+    "steps": [
+        {
+            "id": 508,
+            "local_path": "main.script",
+            "parameters": "",
+            "requirements": null,
+            "script_status": ""
+        }
+    ],
+    "requirement_group_id": null,
+    "requirement_group_name": null,
+    "asset_name": "main.suite"
+}

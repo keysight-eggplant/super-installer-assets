@@ -1,0 +1,15 @@
+{
+	"name": "Example VNC",
+	"description": "",
+	"enabled": true,
+	"criteria": [],
+	"connections": [
+		{
+			"connection_type": "VNC",
+			"host": "localhost",
+			"port": 5900,
+			"scale_ratio": 1
+		}
+	],
+	"execution_environments": []
+}
