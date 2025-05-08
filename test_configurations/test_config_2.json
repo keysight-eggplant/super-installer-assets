@@ -1,0 +1,17 @@
+{
+	"name": "My 2nd test config",
+	"environment_type": "local",
+	"asset_name": "main.suite",
+	"steps": [
+		{
+			"step_type": "test_case",
+			"test_case_name": "example scripted"
+		}
+	],
+	"tags": [],
+	"suts": [
+		{
+			"sut_name": "Example VNC"
+		}
+	]
+}
